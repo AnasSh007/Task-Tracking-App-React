@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "25th March, 2023",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Driving Test",
+      "day": "26th March, 2023",
+      "reminder": true
+    },
+    {
+      "text": "Take Test",
+      "day": "Friday",
+      "reminder": true,
+      "id": 3
+    }
+  ]
+}

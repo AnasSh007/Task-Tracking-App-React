@@ -1,0 +1,12 @@
+npm run build
+npm i -g serve
+serve -s build -p 8000
+
+
+// write a script in package.json file
+  "server": "json-server --watch db.json --port 5000"
+// then run this command
+json-server --watch db.json --port 5000
+
+// start server by this command
+npm run server
