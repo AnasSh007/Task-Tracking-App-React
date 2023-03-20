@@ -6,6 +6,8 @@ As a first project in React, building a task tracking web app will allow me to g
 
 So, I am ready to dive into the world of React development and build a useful and practical app that will showcase my skills as a developer!
 
-to run the app, run=>
-npm run start
-npm run server
+To launch the application, please navigate to the project directory and open two terminal windows, run 1st command in 1st terminal to start react development server and run second command to start json-server
+
+> npm run start
+
+> npm run server
